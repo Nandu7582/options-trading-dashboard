@@ -4,5 +4,4 @@ pandas
 numpy==1.26.3
 pandas_ta
 setuptools
-
-
+matplotlib
